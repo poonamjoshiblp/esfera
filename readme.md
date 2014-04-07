@@ -1,0 +1,9 @@
+File Structure  :
+
+/index.php = Master file 
+/styles  = CSS Files
+/images/ = all images of sites, with subfolders to organize 
+/shells/ = master templates (shells) 
+/templates/ = page templates 
+/files/ = download-able files (PDFs, etc) 
+/fonts/ = Site fonts

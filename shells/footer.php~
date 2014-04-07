@@ -1,0 +1,36 @@
+  <section class="section6">
+<h1>Some of Our Happy Members</h1>
+<img src="images/slider.jpg">
+  </section>
+<section class="section7">
+	<div class="container">
+		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><ul class="social"><li>CONNECT WITH US:</li><li><a href="#"> <img src="images/fb.png"></a></li><li><a href="#"> <img src="images/tw.png"></a></li><li><a href="#"> <img src="images/link.png"></a></li></ul>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><ul class="social"><li>VISIT OUR OTHER COMPANIES:</li><li><a href="#"> <img src="images/Bitmap.png"></a></li><li><a href="#"> <img src="images/footer_logo.png"></a></li></ul>
+</div>
+
+</div>
+	</section>
+
+<footer>
+	<div class="container">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><ul class="nav1"><li>Micro Office -</li><li><a href="#"> Home </a>|</li></li><li><a href="#"> Services</a>|</li></li><li><a href="#"> Apply Now </a>|</li></li><li><a href="#"> Workspace Benefits </a>|</li></li><li><a href="#"> Facility Tour </a>|</li></li><li><a href="#"> Our Tenants </a>|</li></li><li><a href="#"> Neighborhood </a>|</li></li><li><a href="#">Partners </a>|</li></li><li><a href="#"> Contact Us </a>|</li></li><li><a href="#"> Intranet Login </a>|</li></li></ul>
+
+		<ul class="office"><li>
+Office Space Directory:<li><a href="#">
+ News </a>|</li></li><li><a href="#"> Affordable Offices </a>|</li></li><li><a href="#"> Temporary Offices</a>|</li></li><li><a href="#"> Serviced Offices </a>|</li></li><li><a href="#"> Commercial Real Estate</a></li>
+	</div>
+</div>
+	</footer>
+
+
+
+</div><!--globle_container-->
+
+</body>
+</html>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.carousel').carousel()
+});
+</script>
